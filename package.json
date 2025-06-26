@@ -57,7 +57,7 @@
     }
   ],
   "dependencies": {
-    "nan": "^2.14.0"
+    "nan": "^2.22.2"
   },
   "devDependencies": {
     "morgan": "^1.9.1"
